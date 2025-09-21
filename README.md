@@ -45,7 +45,8 @@
 <!-- TryHackMe Badge -->
 <p align="center">
   <a href="https://tryhackme.com/p/Kad3n13">
-    <img src="https://github.com/user-attachments/assets/25a106a1-1d33-487c-b37d-9b176519b4c1" alt="THM" />
+    <img width="326" height="80" alt="image" src="https://github.com/user-attachments/assets/109860db-c51a-4dc3-b927-1661ebfcc3a0" />
+
   </a>
 </p>
 
