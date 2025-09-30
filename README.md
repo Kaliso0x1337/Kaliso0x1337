@@ -27,18 +27,18 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kad3n13&show_icons=true&count_private=true&theme=radical&bg_color=1F222E&title_color=7B1FA2&icon_color=4CAF50&hide_border=true&cache_seconds=0" 
+    src="https://github-readme-stats.vercel.app/api?username=Kaliso0x1337&show_icons=true&count_private=true&theme=radical&bg_color=1F222E&title_color=7B1FA2&icon_color=4CAF50&hide_border=true&cache_seconds=0" 
     alt="GitHub Stats" 
   />
   <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kad3n13&layout=compact&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&langs_count=8&cache_seconds=0" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaliso0x1337&layout=compact&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&langs_count=8&cache_seconds=0" 
     alt="Top Languages" 
   />
   </p>
   <p align="center"
   <img 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kad3n13&theme=radical&background=1F222E&ring=6A0DAD&fire=4CAF50&currStreakNum=388E3C&sideNums=4CAF50&currStreakLabel=7B1FA2&sideLabels=6A0DAD&dates=2E7D32&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaliso0x1337&theme=radical&background=1F222E&ring=6A0DAD&fire=4CAF50&currStreakNum=388E3C&sideNums=4CAF50&currStreakLabel=7B1FA2&sideLabels=6A0DAD&dates=2E7D32&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
@@ -85,28 +85,28 @@
   </summary>
 
   <p align="left" style="margin-top: 10px;">
-    <a href="https://github.com/Kad3n13/AES-256-CBC-EU">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=AES-256-CBC-EU&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=4CAF50&show_icons=false" alt="AES-256-CBC-EU">
+    <a href="https://github.com/Kaliso0x1337/AES-256-CBC-EU">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=AES-256-CBC-EU&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=4CAF50&show_icons=false" alt="AES-256-CBC-EU">
     </a>
-    <a href="https://github.com/Kad3n13/reg-form">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=reg-form&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=388E3C&show_icons=false" alt="reg-form">
+    <a href="https://github.com/Kaliso0x1337/reg-form">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=reg-form&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=388E3C&show_icons=false" alt="reg-form">
     </a>
-    <a href="https://github.com/Kad3n13/Login-Page">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Login-Page&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Login-Page">
+    <a href="https://github.com/Kaliso0x1337/Login-Page">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=Login-Page&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Login-Page">
     </a>
-    <a href="https://github.com/Kad3n13/VigenereCipherApp">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=VigenereCipherApp&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=2E7D32&show_icons=false" alt="VigenereCipherApp">
+    <a href="https://github.com/Kaliso0x1337/VigenereCipherApp">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=VigenereCipherApp&theme=radical&bg_color=1F222E&title_color=6A0DAD&hide_border=true&icon_color=2E7D32&show_icons=false" alt="VigenereCipherApp">
     </a>
-    <a href="https://github.com/Kad3n13/Data-Project-2-">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Data-Project-2-&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Data-Project-2-">
+    <a href="https://github.com/Kaliso0x1337/Data-Project-2-">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=Data-Project-2-&theme=radical&bg_color=1F222E&title_color=7B1FA2&hide_border=true&icon_color=4CAF50&show_icons=false" alt="Data-Project-2-">
     </a>
-    <a href="https://github.com/Kad3n13/Missed_Apts">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kad3n13&repo=Missed_Apts&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=388E3C&show_icons=false" alt="Missed_Apts">
+    <a href="https://github.com/Kaliso0x1337/Missed_Apts">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kaliso0x1337&repo=Missed_Apts&theme=radical&bg_color=1F222E&title_color=4A148C&hide_border=true&icon_color=388E3C&show_icons=false" alt="Missed_Apts">
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/Kad3n13?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Kaliso0x1337?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
     </a>
   </p>
