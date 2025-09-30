@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://www.youtube.com/@kad3n470" title="YouTube" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@0x40.8p0" title="YouTube" target="_blank" rel="noopener noreferrer">
     
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
  
 <p align="center"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaden-oberfeld/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in//" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -67,10 +67,10 @@
   <a href="https://www.youtube.com/channel/UCxjgfIsIVTuHPeKE96vdKYg">
     <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCxjgfIsIVTuHPeKE96vdKYg?style=for-the-badge&color=7B1FA2&labelColor=388E3C" />
   </a>
-  <a href="https://github.com/Kad3n13?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Kaliso0x1337?tab=repositories&sort=stargazers">
     <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Kad3n13?color=4CAF50&style=for-the-badge&labelColor=6A0DAD&logo=star" />
   </a>
-  <a href="https://github.com/Kad3n13?tab=followers">
+  <a href="https://github.com/Kaliso0x1337?tab=followers">
     <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Kad3n13?color=2E7D32&labelColor=4A148C&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
 </p>
@@ -145,7 +145,7 @@
   </p>
 
   <p>
-    <a href="https://www.youtube.com/@kad3n470?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/@0x40.8p0?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
       <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-6A0DAD?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe Button" />
     </a>
   </p>
